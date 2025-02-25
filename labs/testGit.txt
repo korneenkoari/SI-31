@@ -1,7 +1,7 @@
 first commit
 second commit
 <<<<<<< HEAD
-fourth commit
-=======
 third commit
 >>>>>>> task2
+fourth commit
+=======
